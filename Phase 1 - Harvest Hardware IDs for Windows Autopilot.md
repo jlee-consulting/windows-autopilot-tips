@@ -30,6 +30,6 @@ For each new computer, please perform the following steps:
 8. Repeat these steps for the next computer.
 
 ## Note
-Once we have attained the **`{service-tag-number}`.csv** for all computers, I will take care of the device enrollment and assigning  the machines to the appropriate users from my end.
+Once we have attained the **`{service-tag-number}`.csv** for all computers, I will take care of the device enrollment and user assignment from my end.
 
 I will inform you when we are ready to begin the next phase.

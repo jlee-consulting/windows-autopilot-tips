@@ -14,10 +14,12 @@ For each computer that we have prepared in Phase 1, please perform the following
 
     This process will take some time to complete.
     
-3. After the computer has rebooted itself, on the "Let's start with region" screen, press the **Windows key** five (5) times in quick succession.
-4. On the "What would you like to do?" screen, select "Windows Autopilot provisioning" option.
-5. On the "Windows Autopilot Configuration" screen, press the **Provision** button.
-6. If the provisioning is successful, you will see a green "Windows Autopilot Configuration" screen.  Press the **Reseal** button to reseal the machine.
-7. If the provisioning failed, you will see a red "Windows Autopilot Configuration" page.  Press the **Retry** button.  (Let me know if this occurs.)
-8. Once the machine is properly resealed, it will shut down itself.  We are ready to distribute this machine to the user at this point.
-9. Repeat these steps for the next computer.
+3. After the computer has rebooted itself, you will see the "Let's start with region" screen.  Do NOT press the "Yes" button.  Instead, press the **Windows key** five (5) times in quick succession.
+4. On the "What would you like to do?" screen, select the **Windows Autopilot provisioning** option and press the **Continue** button.
+5. On the "Windows Autopilot Configuration" screen, press the **Provision** button.  (The provisioning process will take some time to complete.)
+6. If the provisioning process is successful, you will see a *green* "Windows Autopilot Configuration" screen.  Press the **Reseal** button to reseal the machine.
+7. Once the machine is properly resealed, it will shut down itself.  We are ready to distribute this machine to the user at this point.
+8. Repeat these steps for the next computer.
+
+## Note
+If the provisioning process failed in Step 6, you will see a *red* "Windows Autopilot Configuration" page.  Press the **Retry** button.  (Contact me if this occurs.)
