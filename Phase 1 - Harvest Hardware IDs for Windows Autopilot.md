@@ -1,4 +1,4 @@
-# Phase 1 - Harvest Hardware IDs and Enroll Computers for Windows Autopilot
+# Phase 1 - Harvest Hardware IDs for Windows Autopilot
 
 For each new computer, please perform the following steps:
 
