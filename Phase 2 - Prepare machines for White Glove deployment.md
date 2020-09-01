@@ -1,6 +1,6 @@
 # Phase 2 - Prepare machines for White Glove deployment and reseal machines for distribution
 
-For each computer that we have prepared in Phase 1, please perform the following steps:
+For each computer that we have prepared in [Phase 1](Phase%201%20-%20Harvest%20Hardware%20IDs%20for%20Windows%20Autopilot.md), please perform the following steps:
 
 1. Boot up the computer.  (Make sure the computer is plugged in.)
 2. Reset this computer to OOBE condition:
