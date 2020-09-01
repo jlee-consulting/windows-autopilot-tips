@@ -2,7 +2,7 @@
 
 For each new computer, please perform the following steps:
 
-1. Boot up the new computer.
+1. Boot up the new computer.  (Make sure the computer is plugged in.)
 
 2. When prompted for the username, give it a name such as `tempadminuser` and a password.  (Once we are done with harvesting the hardware ID of this machine, we will do an OOBE reset in the next phase.)
 3. Be sure to connect the machine to the Internet.
