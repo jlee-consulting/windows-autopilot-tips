@@ -12,8 +12,8 @@ For each new computer, please perform the following steps:
     2. Execute the following PowerShell commands:
         - Answer "Yes" if you get prompted.
         - Replace `{service-tag-number}` accordingly.
-        
-        ```
+        <br><br>
+        ```powershell
         Set-ExecutionPolicy Unrestricted
 
         md C:\hardwareid
