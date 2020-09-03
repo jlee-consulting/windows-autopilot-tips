@@ -7,10 +7,10 @@ For each computer that we have prepared in [Phase 1](Phase%201%20-%20Harvest%20H
     1. Open Start menu -> **Settings**.
     2. Click on **Update & Security**.
     3. Click on **Recovery**.
-    4. Under "Reset this PC," click the **Get started** button.
-    5. Click the **Remove everything** option.
-    6. Click the **Next** button.
-    7. Click the **Reset** button.
+    4. Under "Reset this PC," click the **Get started** button. ![Reset this PC](Assets/reset-this-pc.png)
+    5. Click the **Remove everything** option. ![Remove everything](Assets/remove-everything.png)
+    6. Click the **Next** button. ![Warning!](Assets/warning.png)
+    7. Click the **Reset** button. ![Ready to reset this PC](Assets/ready-to-reset-this-pc.png)
 
     This process will take some time to complete.
     
