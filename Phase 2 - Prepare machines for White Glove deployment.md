@@ -4,14 +4,13 @@ For each computer that we have prepared in [Phase 1](Phase%201%20-%20Harvest%20H
 
 1. Boot up the computer.  (Make sure the computer is plugged in.)
 2. Reset this computer to OOBE condition:
-    1. Open Start menu -> **Settings**.
-    2. Click on **Update & Security**.
-    3. Click on **Recovery**.
-    4. Under "Reset this PC," click the **Get started** button.<br>![Reset this PC](Assets/reset-this-pc.png)
-    5. Click the **Remove everything** option.<br>
+    1. Open Start menu -> **Settings**.<br>![Settings](Assets/start-menu-settings.png)
+    2. Click on **Update & Security**.<br>![Update & Security](Assets/update-and-security.png)
+    3. Click on **Recovery**.  Under "Reset this PC," click the **Get started** button.<br>![Reset this PC](Assets/reset-this-pc.png)
+    4. Click the **Remove everything** option.<br>
     ![Remove everything](Assets/remove-everything.png)
-    6. Click the **Next** button.<br>![Warning!](Assets/warning.png)
-    7. Click the **Reset** button.  (Note: This process will take some time to complete.)<br>![Ready to reset this PC](Assets/ready-to-reset-this-pc.png)
+    5. Click the **Next** button.<br>![Warning!](Assets/warning.png)
+    6. Click the **Reset** button.  (Note: This process will take some time to complete.)<br>![Ready to reset this PC](Assets/ready-to-reset-this-pc.png)
     
 3. After the computer has rebooted itself, you will see the "Let's start with region" screen.  Do NOT press the "Yes" button.  Instead, press the **Windows key** five (5) times in quick succession.<br>![Let's start with region](Assets/lets-start-with-region.png)
 4. On the "What would you like to do?" screen, select the **Windows Autopilot provisioning** option and press the **Continue** button.<br>![What would you like to do](Assets/what-would-you-like-to-do.png)
