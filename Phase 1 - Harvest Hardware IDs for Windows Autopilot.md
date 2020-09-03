@@ -32,4 +32,4 @@ For each new computer, please perform the following steps:
 ## Note
 Once we have attained the **`{service-tag-number}`.csv** for all computers, I will take care of the device enrollment and user assignment from my end.
 
-I will inform you when we are ready to begin the next phase.
+I will inform you when we are ready to begin the [next phase](Phase%202%20-%20Prepare%20machines%20for%20White%20Glove%20deployment.md).
