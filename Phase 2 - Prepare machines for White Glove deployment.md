@@ -7,15 +7,21 @@ For each computer that we have prepared in [Phase 1](Phase%201%20-%20Harvest%20H
     1. Open Start menu -> **Settings**.
     2. Click on **Update & Security**.
     3. Click on **Recovery**.
-    4. Under "Reset this PC," click the **Get started** button. ![Reset this PC](Assets/reset-this-pc.png)
-    5. Click the **Remove everything** option. ![Remove everything](Assets/remove-everything.png)
-    6. Click the **Next** button. ![Warning!](Assets/warning.png)
-    7. Click the **Reset** button. ![Ready to reset this PC](Assets/ready-to-reset-this-pc.png)
+    4. Under "Reset this PC," click the **Get started** button.
+    ![Reset this PC](Assets/reset-this-pc.png)
+    5. Click the **Remove everything** option.
+    ![Remove everything](Assets/remove-everything.png)
+    6. Click the **Next** button.
+    ![Warning!](Assets/warning.png)
+    7. Click the **Reset** button.
+    ![Ready to reset this PC](Assets/ready-to-reset-this-pc.png)
 
     This process will take some time to complete.
     
-3. After the computer has rebooted itself, you will see the "Let's start with region" screen.  Do NOT press the "Yes" button.  Instead, press the **Windows key** five (5) times in quick succession. ![Let's start with region](Assets/lets-start-with-region.png)
-4. On the "What would you like to do?" screen, select the **Windows Autopilot provisioning** option and press the **Continue** button. ![What would you like to do](Assets/what-would-you-like-to-do.png)
+3. After the computer has rebooted itself, you will see the "Let's start with region" screen.  Do NOT press the "Yes" button.  Instead, press the **Windows key** five (5) times in quick succession.
+![Let's start with region](Assets/lets-start-with-region.png)
+4. On the "What would you like to do?" screen, select the **Windows Autopilot provisioning** option and press the **Continue** button.
+![What would you like to do](Assets/what-would-you-like-to-do.png)
 5. On the "Windows Autopilot Configuration" screen, press the **Provision** button.  (The provisioning process will take some time to complete.)
 6. If the provisioning process is successful, you will see a *green* "Windows Autopilot Configuration" screen.  Press the **Reseal** button to reseal the machine.
 7. Once the machine is properly resealed, it will shut down itself.  We are ready to distribute this machine to the user at this point.
